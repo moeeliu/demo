@@ -1,0 +1,24 @@
+body{
+  margin:0px;
+  padding:0px;  
+}
+.con{
+  width:600px;
+  height:100%;
+  margin:200px auto;
+}
+.newquote{
+	float: right;
+}
+.btn-c{
+	color:white;
+	}
+.quote{
+	width: 500px;
+	font-size: 33px;
+	text-align: center;
+	line-height:1.4;
+	word-wrap: break-word;
+	}
+	
+	
